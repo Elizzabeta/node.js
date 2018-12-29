@@ -1,4 +1,3 @@
-*****BASICS*****
 /*var integer1 = 5;
 var integer2 = 10;
 
