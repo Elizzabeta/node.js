@@ -65,7 +65,7 @@
 
 // var myArray = ["I", 2, 7, 8, "learn",9, 28, 27,"JavaScript"];
 // var sentence = '';
-// var subNumAndSuccessor = [];
+// var addNumAndSuccessor = [];
 
 // for (let i = 0; i < myArray.length; i++) {
 //   if (isNaN(myArray[i])){
@@ -73,14 +73,14 @@
 //           // OR // 
 //     sentence = sentence.concat(myArray[i]+ " ");
 //   } else {
-//     let sum = substractWithSuccessor(myArray[i]);
-//     subNumAndSuccessor.push(sum)
+//     let sum = additionWithSuccessor(myArray[i]);
+//     addNumAndSuccessor.push(sum)
 //   }
 // }
 // console.log("Sentence: " +sentence);
-// console.log("Substruction with nums' successors: " +subNumAndSuccessor)
+// console.log("Addition with nums' successors: " +addNumAndSuccessor)
 
-// function substractWithSuccessor(number) {
+// function additionWithSuccessor(number) {
 //   let successor = number + 1;              
 //     return number + successor;
 // }
